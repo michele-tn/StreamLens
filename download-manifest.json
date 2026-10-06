@@ -1,0 +1,97 @@
+{
+  "name": "StreamLens-Windows-x64.zip",
+  "bytes": 369456225,
+  "sha256": "142497d682483527f32c719ed9a6f6553daec7651271d7ef936de3b7ebc16016",
+  "parts": [
+    {
+      "file": "StreamLens-Windows-x64.zip.part01",
+      "bytes": 20971520,
+      "sha256": "e9e26974c435c39a0728f1eed52b11e4ce8c5057cd4af8a1c21e1e95b8d3324a"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part02",
+      "bytes": 20971520,
+      "sha256": "75fee347ed81360748a58083d8a2838923458071ff0a63cda0e4e00201342865"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part03",
+      "bytes": 20971520,
+      "sha256": "0e8e0e2c1ef64dc513bdd7733ce1f1e1caf8b345b3b8faa7119498094e64ffbd"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part04",
+      "bytes": 20971520,
+      "sha256": "15e9bd4c3f8e90dd67e84730db13ff7553202da60cb6541641939d70407016b8"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part05",
+      "bytes": 20971520,
+      "sha256": "f283524309035ad2417fae55e1a1db6b298480b84778cda1d5b93dce412e5490"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part06",
+      "bytes": 20971520,
+      "sha256": "8413f76c3dc10331c9e50b43ff5056ce3043a8e8a64b1257dba21d9760718836"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part07",
+      "bytes": 20971520,
+      "sha256": "f0245ae86a01e7a33e60ab27d3f1146009e6d9f734c0c8ca50720cd9dbcf773a"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part08",
+      "bytes": 20971520,
+      "sha256": "a2dcb04af69e3e71ac939f54eea9c8c6cb699bc7585dc653e45282a30438fcd4"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part09",
+      "bytes": 20971520,
+      "sha256": "96b1e40293da83d6947e48db70260f0737e762563bcf02b453ec39e07c65454e"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part10",
+      "bytes": 20971520,
+      "sha256": "a595dea4bfdc7fe2bae4c54fb05d3eb146af01548b5ec2d7feab3047681f362a"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part11",
+      "bytes": 20971520,
+      "sha256": "ebc01aa3a2da1ef0d0ab826fb722542f53d0af3d2341e2e212ba122460b2c86a"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part12",
+      "bytes": 20971520,
+      "sha256": "eb24e2fb4e2102e6bcd25446a4a8ab1089f1cf56b2b090ff2f3d9155e424f321"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part13",
+      "bytes": 20971520,
+      "sha256": "af48a758560ff1feb9c13af38a488575b990b5cea6522627de076e7e91b2ad20"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part14",
+      "bytes": 20971520,
+      "sha256": "52d4b3ca07a5a762413c0c987ec247d2249c9d5b94c5e517d97770a2afedea5d"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part15",
+      "bytes": 20971520,
+      "sha256": "ff2fe5aecf6229171f14a4c84c4f203e54f2d704b2fe60446c244312fc675e30"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part16",
+      "bytes": 20971520,
+      "sha256": "60a48f314f68e07c8833073e100f98a74b9a668f3b2840b98b734351c7c1b638"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part17",
+      "bytes": 20971520,
+      "sha256": "57b041face29f4e695607b05afd3e522a8b1af512e7f8a3bafc033fd7aa244c4"
+    },
+    {
+      "file": "StreamLens-Windows-x64.zip.part18",
+      "bytes": 12940385,
+      "sha256": "49c4763084ce9ad19d7e0a8646fd0e7caa12e4ee790ab9d6156a45f68dce940b"
+    }
+  ]
+}
